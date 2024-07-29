@@ -1,0 +1,2 @@
+const String CRYPTO_RANK_API_KEY =
+    "da020fc3af3c6699c9298634a66a253bad82a12c6f528ceda8f3ad4a908c";
